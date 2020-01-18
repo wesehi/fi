@@ -1,0 +1,168 @@
+
+
+.logo
+{
+  border-radius: 50%;
+  position: relative;
+  left: 20px;
+  top: 20px;
+}
+.main
+{
+  color: #fff;
+  position: relative;
+  left: 30px;
+  padding-top: 20px;
+  bottom: 20px;
+  font-family: 'Monoton', cursive;
+}
+.upper-bar
+{
+  background-image:url("computer-image.jpg");
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/* topbar */
+
+.topbar{
+  background-color: #000;
+  height: 100px;
+}
+
+
+
+
+
+.d-block{
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.iit-carousel{
+  width: 70%;
+}
+.nit-carousel{
+  width: 70%;
+}
+.other-carousel{
+  width: 70%;
+}
+.next{
+  margin-top: 9px;
+  text-align: center;
+
+}
+.testbutton1 {
+  font-family: 'comic sans ms';
+  color: #FFFFFF ;
+  font-size: 13px;
+  box-shadow: 1px 1px 0 #BEE2F9;
+  padding: 5px 25px;
+  border: 2px outset #9D0B0B;
+  background: #63B8EE;
+  background: -o-linear-gradient(top, #ed6663 , #ff9d76);
+  background: -webkit-gradient(top, #ed6663,  #ff9d76);
+  background: -webkit-linear-gradient(top,  #ed6663, #ff9d76);
+  background: -ms-linear-gradient(top,  #ed6663, #ff9d76);
+  background: -moz-linear-gradient(top,  #ed6663,  #ff9d76);
+  margin-right: 10px;
+}
+.testbutton1:hover {
+  color: #fff ;
+  background: #ed6663;
+}
+
+
+.register-login{
+  padding-top: 50px;
+}
+.testbutton2{
+  font-family: 'comic sans ms';
+  color: #FFFFFF ;
+  font-size: 13px;
+  box-shadow: 1px 1px 0 #BEE2F9;
+  padding: 5px 25px;
+  border: 2px outset #9D0B0B;
+  background: #63B8EE;
+  background: -o-linear-gradient(top, #ed6663 , #ff9d76);
+  background: -webkit-gradient(top, #ed6663,  #ff9d76);
+  background: -webkit-linear-gradient(top,  #ed6663, #ff9d76);
+  background: -ms-linear-gradient(top,  #ed6663, #ff9d76);
+  background: -moz-linear-gradient(top,  #ed6663,  #ff9d76);
+ margin-left: 10px;
+}
+.testbutton2:hover {
+  color: #fff ;
+  background: #ed6663;
+}
+
+
+.btn
+{
+  color: #fff;
+}
+
+.student{
+
+  margin-right: auto;
+  margin-left: auto;
+
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 18rem 12rem;
+  overflow: auto;
+  border-radius: 5%;
+}
+.college{
+
+  margin-right: auto;
+  margin-left: auto;
+
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 18rem 12rem;
+  overflow: auto;
+  border-radius: 5%;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+}
+.register{
+  background-image: url("card02.jpg");
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: fantasy;
+  font-size: 50px;
+  font-weight: bolder;
+}
+.ca{
+  opacity: 0.85;
+}
+.content {
+
+  margin-top:  60px;
+  margin-bottom: 80px;
+}
+.content-body{
+  padding-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.register-login{
+  margin-bottom: 30px;
+}
+/* bottom */
+.bottom-container{
+  padding-top: 100px;
+  height: 90px;
+  background-color: #000;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
